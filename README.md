@@ -18,14 +18,14 @@
 ## 📦 Structure du projet
 
 /src
-├── Produit.java # Classe représentant un produit
-├── IMetier.java # Interface générique pour la gestion des entités
-├── MetierProduitImpl.java # Implémentation de l'interface pour Produit
-└── Application.java # Point d'entrée avec menu console
 
-yaml
-Copy
-Edit
+└── Produit.java # Classe représentant un produit
+
+└── IMetier.java # Interface générique pour la gestion des entités
+
+└── MetierProduitImpl.java # Implémentation de l'interface pour Produit
+
+└── Application.java # Point d'entrée avec menu console
 
 ---
 
@@ -44,14 +44,14 @@ Edit
    cd gestion-produits-generics/src
 Compiler :
 
-    ```bash
-    javac *.java
-    ```
+ ```bash
+ javac *.java
+ ```
 Exécuter :
 
-    ```bash
-    java Application
-    ```
+ ```bash
+ java Application
+ ```
 📸 Captures d’écran
 
 1️⃣ Menu principal
